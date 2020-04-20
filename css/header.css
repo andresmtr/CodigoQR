@@ -320,12 +320,14 @@ margin: 10px auto;
 
 
 .boton_personalizado{
-    text-decoration: none;
+    width: 40;
+    height: 40;
+    /*text-decoration: none;
     padding: 10px;
     font-weight: 600;
     font-size: 10px;
     color: #ffffff;
-    background-color: #800000;
+    background-color: #800000;*/
     
    
   }
